@@ -7,6 +7,7 @@ require (
 	github.com/gogo/protobuf v1.2.2-0.20190601103108-21df5aa0e680
 	github.com/kevinburke/go-bindata v3.22.0+incompatible // indirect
 	github.com/kr/pretty v0.1.0 // indirect
+	github.com/pauln/go-datefmt v1.0.0 // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/sirupsen/logrus v1.4.2
